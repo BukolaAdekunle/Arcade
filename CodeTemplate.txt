@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//Solitare
+//Bukola
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (a card does match) {
+    //allow it to merge
 } else {
-    //Add event below
+    //don't allow it to merge
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (cards match) {
+    //score goes up 5
 } else {
-    //Add event below
+    //score stays the same
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (all the cards match) {
+    //you win the level
 } else {
-    //Add event below
+    //you loose the level
 }
 
 
